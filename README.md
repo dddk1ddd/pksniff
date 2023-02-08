@@ -1,5 +1,5 @@
 # psniff
-PktMon Pyhon Script for Windows 10
+PktMon Python Script for Windows 10
 with basic (untested) examples for bash and powerscript
 
 You will have to add your own filters. Run as administrator.
